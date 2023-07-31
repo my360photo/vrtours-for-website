@@ -1,0 +1,60 @@
+body {
+    background-image: linear-gradient(#cacaca, #222222);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 {
+    clear: both;
+    margin-left: 100px;
+    color: white;
+}
+
+p {
+    margin-left: 100px;
+    size: 18px;
+    color: white;
+}
+
+h2 {
+    margin-left: 125px;
+    color: #FF7A00;
+}
+
+ol {
+    margin-left: 125px;
+    list-style: none;
+}
+
+a {
+    color: white; 
+}
+
+a:hover {
+    color: rgb(118, 118, 118);
+}
+
+div {
+    width: 1000px;
+    border: 5px solid lightgray;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    background-color: #222222;
+}
+
+footer {
+    text-align: center;
+    clear: both;
+    margin-top: auto;
+    color: white;
+}

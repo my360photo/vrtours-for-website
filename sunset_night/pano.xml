@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" appversion="6.1.15" apprev="18116">
+  <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" overlap="1" width="3471" height="3471" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400">
+    <level width="3471" preload="0" height="3471" predecode="0"/>
+    <level width="1735" preload="0" height="1735" predecode="0"/>
+    <level width="867" preload="0" height="867" predecode="0"/>
+    <level width="433" preload="1" height="433" predecode="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start tilt="0" pan="0" fov="70" projection="4"/>
+    <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+    <min tilt="-90" pan="0" fovpixel="2"/>
+    <max tilt="90" pan="360" fov="120" scaletofit="1" fovfisheye="360" fovstereographic="270"/>
+  </view>
+  <userdata tags="4_aphinity_photo" author="" datetime="6/19/23 9:54 PM" copyright="" title="" latitude="" description="" heading="0" comment="" longitude="" source="" customnodeid="" nodeid="node1" info=""/>
+  <hotspots width="180" height="20" wordwrap="1">
+    <label textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" border="1" width="180" background="1" bordercolor="0x000000" textalpha="1" height="20" wordwrap="1" enabled="1" borderradius="1"/>
+    <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" handcursor="1" bordercolor="0x0000ff"/>
+  </hotspots>
+  <media/>
+  <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomin="0" blendcolor="0x000000" softedge="0" zoomspeed="2" type="crossdissolve" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomout="0"/>
+  <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+  <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" lockedkeyboardzoom="0" simulatemass="1" speedwheel="1" lockedkeyboard="0" sensitivity="8" invertcontrol="1" contextvr="1" lockedwheel="0" invertwheel="0" contextprojections="0"/>
+</panorama>
